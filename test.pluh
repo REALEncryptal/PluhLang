@@ -1,0 +1,7 @@
+make x = 2;
+make y = 3;
+make z = 4;
+
+make vector = {x:x, y:y, z:z};
+
+x + z + y * ( x * y) % 6 / 2
